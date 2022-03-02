@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=.\MYSQLSERVER; Initial Catalog=MedicalManagement;User ID=sa;Password=1234" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -f
